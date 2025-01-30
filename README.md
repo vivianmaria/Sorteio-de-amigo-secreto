@@ -3,6 +3,7 @@
 Um projeto simples em JavaScript para sortear um amigo secreto. Ideal para praticar lógica de programação e manipulação do DOM.
 
 🚀 #Funcionalidades#
+
 Adicionar Amigos: Insira nomes no campo de entrada e adicione-os à lista.
 
 Sortear Amigo Secreto: Clique em "Sortear" para escolher um nome aleatório da lista.
